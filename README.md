@@ -1,3 +1,9 @@
+
+Nombre  	apellido  	edad  	ciudad  	direccion  	codigo  	correo 
+JOSE LUIS 	JARRO CACHI  	22	TACNA  	Villa sol i-3 para chico  	2020067148	jj2020067148@virtual.upt.pe
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gw2ICP1b)
 # :wave: The Basics of GitHub 
 
